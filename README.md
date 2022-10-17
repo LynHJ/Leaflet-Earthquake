@@ -38,7 +38,6 @@ Project
 │       └── js
 │           └── logic.js
 ├── README.md
-
 ```
 
 
