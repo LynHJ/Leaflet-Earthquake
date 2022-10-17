@@ -9,7 +9,7 @@ The porpose of this project is trying to plot earthquakes by using geojson files
 
 
 ## Web Page:  
-<img src='https://github.com/LynHJ/Leaflet-Earthquake/blob/41ad2b471423ed159e5653eab041018f3bf8e4c9/Image/Image.png' width= 51% ><img  
+<img src='https://github.com/LynHJ/Leaflet-Earthquake/blob/41ad2b471423ed159e5653eab041018f3bf8e4c9/Image/Image.png' width= 70% >
 
 ##### Summary: 
 
