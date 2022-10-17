@@ -12,7 +12,7 @@ The porpose of this project is trying to plot earthquakes by using geojson files
 
 <p align="center"><img src='https://github.com/LynHJ/Leaflet-Earthquake/blob/41ad2b471423ed159e5653eab041018f3bf8e4c9/Image/Image.png' width = 80% ></p>  
 
-##### Summary: 
+#### Summary: 
 
 From the picture above, we notice that the locations of earthquakes are on the junctions of each plate or near that. The reason is that there are three types of plate boundaries(collide with, move away from, slide past). For example, in the area of the State of Alaska, most earthquakes happened on the North American plate. It means the Pacific plate subducts into the North American plate. Furthermore, We can also find out some earthquakes happened in the middle of tectonic plates. I have to read more research on it as the movements of tectonic plates is just one of the reasons for earthquakes.  
 ## Content:
